@@ -142,10 +142,10 @@ venv.bak/
 
 # Rope project settings
 .ropeproject
-
+database/migrations
 # mkdocs documentation
 /site
-
+docker-compose.yml
 # mypy
 .mypy_cache/
 .dmypy.json
